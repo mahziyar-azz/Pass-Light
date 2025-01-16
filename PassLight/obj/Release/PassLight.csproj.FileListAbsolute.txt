@@ -1,0 +1,12 @@
+C:\Users\Pc\source\repos\PassLight\PassLight\bin\Release\PassLight.exe.config
+C:\Users\Pc\source\repos\PassLight\PassLight\bin\Release\PassLight.exe
+C:\Users\Pc\source\repos\PassLight\PassLight\bin\Release\PassLight.pdb
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.Form1.resources
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.PassView.resources
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.Properties.Resources.resources
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.exe
+C:\Users\Pc\source\repos\PassLight\PassLight\obj\Release\PassLight.pdb
+C:\Users\Pc\source\repos\PassLight\PassLight\bin\Release\Resources\gadugi.ttf
